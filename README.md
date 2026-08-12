@@ -40,6 +40,7 @@ I love turning complex problems into simple, beautiful, and high-performing digi
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/rest_api-%2302303A.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/convex-%23EE4831.svg?style=for-the-badge&logo=convex&logoColor=white" alt="Convex" />
 </p>
 
 ---
