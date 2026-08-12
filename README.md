@@ -5,7 +5,7 @@ I love turning complex problems into simple, beautiful, and high-performing digi
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Frontend & Design:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, jQuery, HTML5, CSS3, Figma
 * **Backend & APIs:** Node.js, Python, Django, PHP, REST APIs
