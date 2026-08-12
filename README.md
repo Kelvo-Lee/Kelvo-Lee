@@ -42,17 +42,15 @@ I love turning complex problems into simple, beautiful, and high-performing digi
   <img src="https://img.shields.io/badge/rest_api-%2302303A.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="REST API" />
 </p>
 
-
-
 ---
 
 ### 📊 GitHub Stats & Metrics
 
 <p>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Kelvol-Lee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kelvin's Github Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvol-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Kelvo-Lee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kelvin's Github Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelvo-Lee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvol-Lee&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kelvo-Lee&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
