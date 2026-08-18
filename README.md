@@ -8,7 +8,6 @@ I love turning complex problems into simple, beautiful, and high-performing digi
 ### 🌐 Socials:
 
 <p>
-  <a href="https://www.behance.net/akharamenkelvin"><img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://www.instagram.com/Kelvo_lee"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"     alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/akharamen-kelvin-ab2851350/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/kelvolee?s=21"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
